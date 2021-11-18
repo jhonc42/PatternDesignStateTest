@@ -1,25 +1,14 @@
 ﻿<Properties StartupConfiguration="{435708AD-FDC8-442F-868F-C8D8729D9887}|Default">
   <MonoDevelop.Ide.ItemProperties.StatePatternTest PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="StatePatternTest/StateClasses/StoppedState.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StatePatternTest/StateClasses/AudioPlayer.cs">
     <Files>
       <File FileName="StatePatternTest/Program.cs" Line="18" Column="41" />
       <File FileName="StatePatternTest/StateClasses/AudioPlayer.cs" Line="30" Column="59" />
       <File FileName="StatePatternTest/StateClasses/StatePlayer.cs" Line="20" Column="57" />
-      <File FileName="StatePatternTest/StateClasses/PlayingState.cs" Line="12" Column="10" />
-      <File FileName="StatePatternTest/StateClasses/LockedState.cs" Line="23" Column="60" />
+      <File FileName="StatePatternTest/StateClasses/PlayingState.cs" />
+      <File FileName="StatePatternTest/StateClasses/LockedState.cs" />
       <File FileName="StatePatternTest/StateClasses/StoppedState.cs" Line="10" Column="10" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="StatePatternTest" expanded="True" selected="True">
-            <Node name="StatePatternTest" expanded="True">
-              <Node name="StateClasses" expanded="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
