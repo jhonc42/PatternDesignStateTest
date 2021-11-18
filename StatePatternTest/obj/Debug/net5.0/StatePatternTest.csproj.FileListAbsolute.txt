@@ -1,0 +1,15 @@
+/Users/jhoncalderon/Projects/StatePatternTest/StatePatternTest/bin/Debug/net5.0/StatePatternTest.deps.json
+/Users/jhoncalderon/Projects/StatePatternTest/StatePatternTest/bin/Debug/net5.0/StatePatternTest.runtimeconfig.json
+/Users/jhoncalderon/Projects/StatePatternTest/StatePatternTest/bin/Debug/net5.0/StatePatternTest.runtimeconfig.dev.json
+/Users/jhoncalderon/Projects/StatePatternTest/StatePatternTest/bin/Debug/net5.0/StatePatternTest.dll
+/Users/jhoncalderon/Projects/StatePatternTest/StatePatternTest/bin/Debug/net5.0/ref/StatePatternTest.dll
+/Users/jhoncalderon/Projects/StatePatternTest/StatePatternTest/bin/Debug/net5.0/StatePatternTest.pdb
+/Users/jhoncalderon/Projects/StatePatternTest/StatePatternTest/obj/Debug/net5.0/StatePatternTest.csproj.AssemblyReference.cache
+/Users/jhoncalderon/Projects/StatePatternTest/StatePatternTest/obj/Debug/net5.0/StatePatternTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jhoncalderon/Projects/StatePatternTest/StatePatternTest/obj/Debug/net5.0/StatePatternTest.AssemblyInfoInputs.cache
+/Users/jhoncalderon/Projects/StatePatternTest/StatePatternTest/obj/Debug/net5.0/StatePatternTest.AssemblyInfo.cs
+/Users/jhoncalderon/Projects/StatePatternTest/StatePatternTest/obj/Debug/net5.0/StatePatternTest.csproj.CoreCompileInputs.cache
+/Users/jhoncalderon/Projects/StatePatternTest/StatePatternTest/obj/Debug/net5.0/StatePatternTest.dll
+/Users/jhoncalderon/Projects/StatePatternTest/StatePatternTest/obj/Debug/net5.0/ref/StatePatternTest.dll
+/Users/jhoncalderon/Projects/StatePatternTest/StatePatternTest/obj/Debug/net5.0/StatePatternTest.pdb
+/Users/jhoncalderon/Projects/StatePatternTest/StatePatternTest/obj/Debug/net5.0/StatePatternTest.genruntimeconfig.cache
